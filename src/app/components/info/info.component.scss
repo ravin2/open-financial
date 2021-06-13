@@ -1,0 +1,32 @@
+
+.main-placeholder {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 200px;
+    .simple-text1 {
+        width: 240px;
+        font-size: 25px;
+        line-height: 1.2;
+        margin-bottom: 16px;
+    }
+    .simple-text2 {
+        width: 240px;
+        line-height: 1.2;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        color: grey;
+    }
+    .account-btn {
+        padding: 15px;
+        color: #580899;
+        background: white;
+        border: 2px solid #580899;
+        border-radius: 25px;
+        cursor: pointer;
+    }
+    .account-btn:hover{
+        color: white;
+        background: #580899;
+       
+    }
+}
